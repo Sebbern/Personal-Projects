@@ -1,3 +1,5 @@
+EDIT: These rules were written for the first python program: "ShuffleExperiment.py". Every rule is valid for the newer program - "shuffle_experiment_new.py" - except rule 5.
+
 Shuffle experiment, how many times do you have to shuffle to get a deck that is the exact same as the original deck.
 
 Some rules are given:
